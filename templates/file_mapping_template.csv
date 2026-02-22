@@ -1,0 +1,5 @@
+sample_id,r1_fastq,r2_fastq,kraken2_tsv,kraken2_report_tsv,bins_dir
+S1,/path/to/r1.fq,/path/to/r2.fq,/path/to/classification.kraken2,/path/to/kraken2.report,/path/to/bins
+S2,/path/to/r1.fq,/path/to/r2.fq,/path/to/classification.kraken3,/path/to/kraken2.report,/path/to/bins
+S3,/path/to/r1.fq,/path/to/r2.fq,/path/to/classification.kraken4,/path/to/kraken2.report,/path/to/bins
+S4,/path/to/r1.fq,/path/to/r2.fq,/path/to/classification.kraken5,/path/to/kraken2.report,/path/to/bins
